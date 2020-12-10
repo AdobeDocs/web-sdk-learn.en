@@ -1,7 +1,7 @@
 ---
 title: Demo of Adobe Experience Platform Web SDK and Edge Network
-seo-description: This video demonstrates Adobe Experience Platform Web SDK and Edge Network in action, with a single call to Adobe sending data to Experience Platform, Analytics, Audience Manager and Target.
-description: See a demo of Web SDK and Edge Network in action, with a single call to Adobe sending data to Experience Platform, Analytics, Audience Manager and Target.
+description: This video demonstrates Adobe Experience Platform Web SDK and Edge Network in action, with a single call to Adobe sending data to Experience Platform, Analytics, Audience Manager and Target.
+landing-page-description: See a demo of Web SDK and Edge Network in action, with a single call to Adobe sending data to Experience Platform, Analytics, Audience Manager and Target.
 feature: web-sdk
 topics:
 kt: 5206
