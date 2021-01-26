@@ -1,8 +1,8 @@
 ---
 cloud: experience platform
 product: web sdk
-solution: Experience Platform
-type: Documentation
+solution: Experience Platform, Data Collection
+type: Tutorial
 solution-title: Documentation
 solution-hub-url: https://docs.adobe.com/content/help/en/experience-platform/edge/home.html
 getting-started-title: Experience League
