@@ -2,7 +2,8 @@
 user-guide-title: Adobe Experience Platform Web SDK Tutorials
 breadcrumb-title: Tutorials
 user-guide-description: These tutorials show you how to implement and use the Adobe Experience Platform Web SDK in your web sites
-audience: end-user
+role: Data Engineer
+feature: web-sdk
 ---
 
 # Adobe Experience Platform Web SDK Tutorials {#tutorials}

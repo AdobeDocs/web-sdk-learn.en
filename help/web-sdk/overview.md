@@ -9,10 +9,10 @@ Tutorials and videos to help you master Adobe Experience Platform Web SDK.
 
 ## What's New
 
-* **[Introduction to Web SDK and Edge Network (Video)](introduction-to-web-sdk-and-edge-network.md)**
+* **[Overview (Video)](introduction-to-web-sdk-and-edge-network.md)**
     *Power end-to-end engagement in your web sites.*
 
-* **[Demo of Web SDK and Edge Network (Video)](demo-of-web-sdk-and-edge-network.md)**
+* **[Demo (Video)](demo-of-web-sdk-and-edge-network.md)**
     *See the configuration of a web site with Web SDK.*
 
 * **[Create a schema, dataset, and streaming source connector (Video)](create-a-schema-dataset-and-streaming-source-connector-for-web-sdk-data.md)**
@@ -24,7 +24,7 @@ Tutorials and videos to help you master Adobe Experience Platform Web SDK.
 <tr>
 <td>
     <a href="introduction-to-web-sdk-and-edge-network.md">
-      <img alt="Introduction to Web SDK and Edge Network" src="assets/34141.jpg" />
+      <img alt="Web SDK and Edge Network overview" src="assets/34141.jpg" />
     </a>
     <div>
       <a href="introduction-to-web-sdk-and-edge-network.md">
@@ -37,7 +37,7 @@ Tutorials and videos to help you master Adobe Experience Platform Web SDK.
 </td>
 <td>
     <a href="demo-of-web-sdk-and-edge-network.md">
-      <img alt="Demo of Web SDK and Edge Network" src="assets/34148.jpg" />
+      <img alt="Web SDK and Edge Network demo" src="assets/34148.jpg" />
     </a>
     <div>
       <a href="demo-of-web-sdk-and-edge-network.md">

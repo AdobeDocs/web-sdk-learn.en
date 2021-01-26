@@ -1,29 +1,24 @@
 ---
-title: Introduction to the Adobe Experience Platform Web SDK and Edge Network
+title: Adobe Experience Platform Web SDK and Edge Network overview
 seo-description: This video gives an overview of Adobe Experience Platform Web SDK and Edge Network. Experience Platform Web SDK is a client-side JavaScript library that allows customers to use one JavaScript library, one beacon type, one data stream, one and server-side destination to send data to all Adobe applications and to third-party destinations.
 description: Get an overview of Web SDK and Edge Network. 
+role: Data Engineer
 feature: web-sdk
-topics:
 kt: 5205
-audience: engineer
-doc-type: feature video
-activity: understand
 thumbnail: 34141.jpg
 ---
 
-# Introduction to the Adobe Experience Platform Web SDK and Edge Network
+# Adobe Experience Platform Web SDK and Edge Network overview
 
 This video gives an overview of Adobe Experience Platform Web SDK and Edge Network. Experience Platform Web SDK is a client-side JavaScript library that allows customers to use one JavaScript library, one beacon type, one data stream, one and server-side destination to send data to all Adobe applications and to third-party destinations.
 
 >[!VIDEO](https://video.tv.adobe.com/v/34141?quality=12&learn=on)
 
->[!IMPORTANT]
->
->The server-side forwarding capability discussed in this video is currently in alpha and is not available to all users.
-
 >[!NOTE]
 >
 >This video is an excerpt from the the Adobe Summit 2020 session *[Meet Alloy.js and Never Tag for an eVar or Mbox Again](https://www.adobe.com/summit/2020/with-alloy-js-never-tag-for-an-evar-or-mbox-again.html)*.
+>
+>The server-side forwarding capability discussed in this video is now generally  available to all licensed customers. For detailed documentation, see [Adobe Experience Platform Launch Server Side overview Adobe](https://experienceleague.adobe.com/docs/launch/using/server-side-info/server-side-overview.html)
 
 ## Additional Resources
 
