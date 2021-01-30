@@ -2,13 +2,14 @@
 cloud: experience platform
 product: web sdk
 solution: Experience Platform, Data Collection
+role: Developer, Data Engineer
 type: Tutorial
 solution-title: Documentation
-solution-hub-url: https://docs.adobe.com/content/help/en/experience-platform/edge/home.html
+solution-hub-url: https://experienceleague.adobe.com/docs/experience-platform/edge/home.html
 getting-started-title: Experience League
 getting-started-url: https://experienceleague.adobe.com/#recommended/solutions/experience-platform
 tutorials-title: Tutorials
-tutorials-url: https://docs.adobe.com/content/help/en/web-sdk-learn/tutorials/overview.html
+tutorials-url: https://experienceleague.adobe.com/docs/web-sdk-learn/tutorials/overview.html
 mini-toc-levels: 2
 git-repo: https://github.com/AdobeDocs/web-sdk-learn.en
 index: yes
